@@ -12,3 +12,4 @@ Following boards are included:
 * [Intel DH61WW](intel-dh61ww.conf)
 * [Intel DQ67SW](intel-dq67sw.conf)
 * [Intel DQ77CP](intel-dq77cp.conf)
+* [MSI Z77A-GD65](msi-z77a-gd65.conf)
