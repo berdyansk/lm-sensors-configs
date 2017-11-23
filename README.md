@@ -6,6 +6,7 @@ config "sort of works", it's good enough.
 
 Following boards are included:
 
+* [ASRock Q2900-ITX](asrock-q2900-itx.conf)
 * [ASUS P8B75-M](asus-p8b75-m.conf)
 * [ASUS Q87M-E](asus-q87m-e.conf)
 * [Gigabyte H61M-S2PV](ga-h61m-s2pv.conf)
